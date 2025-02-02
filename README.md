@@ -1,5 +1,5 @@
 ## LIVE DEMO :- <a href="https://nxt-trendzz-app.netlify.app">Nxtrendz App</a>
-
+Username: rahul, Password: rahul@2021
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
